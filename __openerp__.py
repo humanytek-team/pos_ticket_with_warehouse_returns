@@ -29,7 +29,7 @@
     'author': "Humanytek",
     'website': "http://www.humanytek.com",
     'category': 'Point Of Sale',
-    'version': '0.1.0',
+    'version': '1.0.0',
     'depends': ['point_of_sale', 'stock_warehouse_returns'],
     'data': [
         'views/templates.xml',
